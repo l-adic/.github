@@ -7,4 +7,4 @@ We apply advanced methods in functional programming to compile langauges like Ha
 
 
 
-![Spec(Z[x])](./zx.png)
+![Spec(Z[x])](https://github.com/l-adic/.github/blob/main/profile/zx.png)
