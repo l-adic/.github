@@ -7,4 +7,4 @@ We apply advanced methods in functional programming to compile langauges like Ha
 
 
 
-![mumfored](https://pbelmans.ncag.info/atlas/mumford-reprint.png)
+![Spec(Z[x])](./zx.png)
